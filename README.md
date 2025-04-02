@@ -61,13 +61,13 @@ Set up the database:
 mysql -u username -p < setup.sql
 ```
 
-Update database connection details in `dbms.py`:
+Update database connection details in `DBMS_Code.py`:
 
 ```python
 cnx = mysql.connector.connect(
     user="your_username", 
     password="your_password", 
-    database="DBMS_Project"
+    database="DBMS_SQL"
 )
 ```
 
