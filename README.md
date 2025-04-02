@@ -45,8 +45,8 @@ The database consists of the following tables:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/e-commerce-platform.git
-cd e-commerce-platform
+git clone https://github.com/yourusername/eway-marketplace-dbms.git
+cd eway-marketplace-dbms
 ```
 
 Install required Python packages:
