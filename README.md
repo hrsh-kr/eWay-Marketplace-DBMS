@@ -75,7 +75,7 @@ cnx = mysql.connector.connect(
 Run the application:
 
 ```bash
-python dbms.py
+python DBMS_Code.py
 ```
 
 ### Main Menu Options
